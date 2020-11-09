@@ -1,7 +1,6 @@
 library dashboard_kit;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+export 'kit/dashboard.dart';
+export 'kit/item.dart';
+export 'kit/logo.dart';
+export 'kit/title.dart';
