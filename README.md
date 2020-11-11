@@ -4,8 +4,8 @@
 # Install
 ```yaml
 dependencies:
-  desktop_kit:
-    git: git@github.com:gmvbr/desktop_kit.git
+  dashboard_kit:
+    git: https://github.com/gmvbr/dashboard_kit.git
 ```
 # Mini
 ![](screen/screen-1.png "Screen 1")
