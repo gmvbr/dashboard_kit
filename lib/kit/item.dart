@@ -36,6 +36,7 @@ class DashboardItem extends StatelessWidget {
           if (state != MenuState.mini)
             Expanded(
               child: Container(
+                height: 57,
                 padding: EdgeInsets.all(16),
                 alignment: Alignment.centerLeft,
                 child: Text(
